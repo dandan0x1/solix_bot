@@ -12,6 +12,7 @@ SolixDePIN 是一个去中心化物理基础设施网络（Decentralized Physica
 
 其他投资方：部分报道提到 Polychain Capital、OKX Ventures、HashKey Capital 和 LongHash Ventures 等顶级加密风投参与，但主要资金来源仍为 Eclip Foundation。
 
+注册rf: https://dashboard.solixdepin.net/sign-up?ref=xFUTJOMx
 
 # solix_bot 1.0教程
 请移步到key网站查看
