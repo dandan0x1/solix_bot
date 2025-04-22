@@ -14,34 +14,4 @@ SolixDePIN 是一个去中心化物理基础设施网络（Decentralized Physica
 
 
 # solix_bot 1.0教程
-## accounts.json 用户账密方式
-```json
-[
-    {
-        "Email": "dandan01@661100.xyz",
-        "Password": "dandan01@661100.xyz"
-    },
-    {
-        "Email": "dandan02@661100.xyz",
-        "Password": "dandan01@661100.xyz"
-    }
-]
-```
-
-## proxy_config.json 代理池api功能
-
-```json
-{
-    "ip": "127.0.0.1", #ip池ip
-    "port_range": {
-        "start": 10000, #从10000端口开始
-        "end": 10100 # #从10100端口结束
-    },
-    "max_ips": 2 #最大抓取ip数量
-}
-```
-
-
-## proxy.txt 代理ip(用户使用了代理池api功能，这个可以为空)
-
-## rfcode.txt 推荐码(预留接口可以为空，暂时无自动注册功能)
+请移步到key网站查看
